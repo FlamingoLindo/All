@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selenium.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selenium"
+              "title": "Obsidian"
             }
           }
         ]
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +177,7 @@
   "active": "a4f2a49aba04b928",
   "lastOpenFiles": [
     "Selenium.md",
+    "Obsidian.md",
     "[.md"
   ]
 }
