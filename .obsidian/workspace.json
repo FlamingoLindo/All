@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dfaa77daff6eb8e5",
+        "id": "4a26bbea708d5125",
         "type": "tabs",
         "children": [
           {
-            "id": "d2f80ee4c9a83789",
+            "id": "81a914a7318fc4ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Markdown"
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Markdown"
+              "title": "Outline"
             }
           },
           {
@@ -174,16 +168,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2f80ee4c9a83789",
+  "active": "81a914a7318fc4ff",
   "lastOpenFiles": [
+    "Life/Gym.md",
+    "Programming/Markdown.md",
+    "Life",
+    "Programming/Selenium.md",
+    "Programming/Obsidian.md",
+    "Programming",
     "Mobile.md",
-    "Markdown.md",
     "conflict-files-obsidian-git.md",
     "a.md",
     "Teste.md",
-    "Obsidian.md",
     "test",
-    "Selenium.md",
     "[Obsidian.md",
     "2024-10-27.md",
     "[.md"

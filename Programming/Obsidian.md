@@ -1,4 +1,4 @@
-#markdown
+#markdown #programming
 # Saving changes to GitHub
 
 1. Install the Git community plugin 
