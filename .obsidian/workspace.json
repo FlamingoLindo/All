@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +176,11 @@
   },
   "active": "d2f80ee4c9a83789",
   "lastOpenFiles": [
+    "Mobile.md",
+    "Markdown.md",
     "conflict-files-obsidian-git.md",
     "a.md",
-    "Markdown.md",
     "Teste.md",
-    "Mobile.md",
     "Obsidian.md",
     "test",
     "Selenium.md",
