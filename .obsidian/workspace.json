@@ -173,10 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d8d9e48ca4e314a",
+  "active": "d2f80ee4c9a83789",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "a.md",
     "Markdown.md",
+    "Teste.md",
+    "Mobile.md",
     "Obsidian.md",
     "test",
     "Selenium.md",
